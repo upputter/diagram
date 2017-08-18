@@ -1,0 +1,9 @@
+# PLUGIN INFO - DO NOT EDIT!
+
+base    diagram
+author  Arne Uplegger
+email   uplegger@uni-greifswald.de
+date    2017-08-17
+name    diagram
+desc    Implementation for Draw.io
+url     https://github.com/upputter/diagram
