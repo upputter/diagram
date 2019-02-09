@@ -4,7 +4,7 @@
 
 
 					
-	$fullFilename = '/var/www/wiki/data/media' . $_REQUEST['url'];
+	$fullFilename = '../../../../../data/media' . $_REQUEST['url'];
 	$content = file_get_contents($fullFilename);
 	echo $content;
 	
